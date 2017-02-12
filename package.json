@@ -1,0 +1,18 @@
+{
+  "name": "gulp-less-browser-sync",
+  "version": "1.0.0",
+  "description": "gulp, automatic less compile, browser reload when *.js, *.html files change, minify js and css",
+  "main": "gulpfile.js",
+  "author": "Sergio Asensio",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.7",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-less": "^3.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.1",
+    "gulp-util": "^3.0.8"
+  }
+}
